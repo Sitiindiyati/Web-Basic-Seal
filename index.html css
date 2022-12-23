@@ -1,0 +1,70 @@
+<html>
+<head>
+  <style>
+    .nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    .nav li {
+        float: left;
+    }
+
+    .nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    .nav li a:hover {
+        background-color: #111;
+    }
+  </style>
+    <link rel="stylesheet" href="style.css">
+        <div class="nav">
+          <ul>
+            <li><a href="#">Biodata</a></li>
+            <li><a href="portofolio.html">Portofolio</a></li>
+          </ul>
+        </div>
+    <body>
+        <style type = text/css>
+        body {background-color:whitesmoke}
+        p { color: black}
+        .para{
+            margin-left: 570px;
+        }
+        </style>
+    
+      <h1><p class="para-biodata1">Siti Indiyati</p></h1>
+        <p class="para"><img src="indi.jpeg" width="200"></p>
+      <h2> <p class="para-biodata2">Tentang Saya</p></h2>
+        <p class="para-biodata2">PHai teman-teman, izin kan saya memperkenalkan diri</p>
+Nama saya Siti Indiyati biasa di panggil indi atau siti. Saya berumur 20 tahun, saya berdomisili di kota Palembang, Sumatra selatan dan sekarang saya sedang menempuh pendidikan di Universitas Alma Ata Yogyakarta dan mengambil program studi akuntansi. Hobi saya memasak, membaca novel dan mencoba hal baru.</p>
+        <h2><p class="para-biodata3">Keahlian Saya</p></h2>
+        <ol>
+            <li>Microsoft Office (Word, Excel, dan Power Point)</li>
+            <li>Can Communicate</li>
+            <li>Teamwork</li>
+        </ol>
+        <h2><p class="para-biodata3">Pendidikan Saya</p></h2>
+        <ul>
+            <li>2013-2017      SMP Negeri 4 Sungai Lilin</li>
+            <li>2017-2020      SMK Negeri 1 Sungai Lilin</li>
+            <li>2020-Sekarang  Universitas Alma Ata (Akuntansi)</li>
+        </ul>
+        <h2><p class="para-biodata3">Kontak Saya</p></h2>
+        <ul>
+        <p><li><a href="https://wa.me/081367938440/">Whatsapp</a></p></li>
+        <p><li><a href="https://www.instagram.com/invites/contact/?i=10eda48qa6smp&utm_content=3fvkyuf/">Instagram</a></p></li>
+        </ul>
+        <p class="para-biodata4">
+            <a href="./portofolio.html">Tugas Portofolio</a>
+        </p>
+    </body>
+</html>
